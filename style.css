@@ -1,0 +1,148 @@
+html{
+    height:100%;
+}
+body{
+    background-color: #533535;
+}
+.top{
+    width: 30%;
+    margin: auto;
+    border: 6px solid blue;
+    border-radius: 35px;
+    box-shadow: 2px 2px yellowgreen;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+.top2{
+    color: maroon;
+    text-shadow: 2px 2px gold;
+}
+hr{
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+.middle{
+    height: 600px;
+    margin-top: 5px;
+    border: 8px solid green;
+}
+.box{
+    width: 20%;
+    height: 180px;
+    border: 5px solid blue;
+    border-radius: 35px;
+    box-shadow: 2px 2px orange;
+    float: left;
+    background-color: lavenderblush;
+    color: black;
+    text-align: center;
+    text-shadow: 1px 1px gold;
+
+}
+.box1{
+    margin: 3% 25% 5% 4%;
+    font-size: 25px;
+    font-weight: 900;
+}
+.box2{
+    margin-top: 3%;
+    margin-bottom: 5%;
+    margin-left: 25%;
+}
+.box2 img{
+    border: 1px solid #000;
+    border-top: none;
+    margin-top: 20px;
+}
+.box3{
+    font-size: 20px;
+    font-weight: 900;
+    margin-top: 6%;
+    margin-left: 4%;
+}
+.box4{
+    float: right;
+    margin-top: 6%;
+    margin-right: 5%;
+    text-align: center;
+}
+.button{
+    background-color: darkgoldenrod;
+    text-shadow: 1px 1px blueviolet;
+    border-radius: 20px;
+}
+#number{
+    text-align: center;
+}
+.bottom{
+    width: 60%;
+    height: fit-content;
+    margin: auto;
+    margin-top: 5px;
+    border: 5px solid red;
+    background-color: darkolivegreen;
+    text-align: center;
+}
+.welcome{
+    color: rgb(9, 9, 136);
+    font-style: oblique;
+    text-shadow: 1px 1px gold;
+}
+.fruits{
+    width: 48%;
+    height: fit-content;
+    float: left;
+    margin: 1%;
+    color: black;
+    background-color: white;
+    font-style: italic;
+    line-height: 1.5;
+}
+.vegetables{
+    width: 48%;
+    height: fit-content;
+    float: right;
+    margin: 1%;
+    color: black;
+    background-color: #E9D5CA;
+    font-style: italic;
+    line-height: 1.5;
+}
+.others{
+    clear: both;
+    margin: 1%;
+    color: black;
+    background-color: #E9D5CA;
+    font-style: italic;
+    line-height: 1.5;
+}
+.style{
+    font-size: large;
+    font-weight: bold;
+    color: rgb(88, 12, 88);
+}
+.discount{
+    width: 30%;
+    height: 80px;
+    margin-left: 30%;
+    margin-bottom: 20px;
+    background-color: yellowgreen;
+    border: 5px solid grey;
+    border-radius: 35px;
+    color: darkblue;
+    text-shadow: 1px 1px gold;
+    box-shadow: 2px 2px pink;
+    text-align: center;
+    position: fixed;
+    bottom: 0%;
+}
+.offer{
+    font-style: oblique;
+    font-size: 16px;
+    float: left;
+}
+.percent{
+    font-style: oblique;
+    font-size: 16px;
+    float: right;
+}
